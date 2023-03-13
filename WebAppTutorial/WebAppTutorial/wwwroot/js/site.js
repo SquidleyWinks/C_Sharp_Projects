@@ -10,3 +10,20 @@ function newColor() {
 function oldColor() {
     document.getElementById("hello_world").style.color = "darkolivegreen";
 }
+
+function myMove() {
+    let id = null;
+    const elem = document.getElementById("smallbox");
+    let pos = 0;
+    clearInterval(id);
+    id = setInterval(frame, 5);
+    function frame() {
+        if (pos == 350) {
+            clearInterval(id);
+        } else {
+            pos++;
+            elem.style.top = pos + "px";
+            elem.style.left = pos + "px";
+        }
+    }
+}

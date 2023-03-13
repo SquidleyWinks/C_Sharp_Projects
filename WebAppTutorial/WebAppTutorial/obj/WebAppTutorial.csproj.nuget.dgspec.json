@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\puebbing\\Documents\\GitHub\\C# Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj": {}
+    "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\puebbing\\Documents\\GitHub\\C# Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj": {
+    "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\puebbing\\Documents\\GitHub\\C# Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
+        "projectUniqueName": "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
         "projectName": "WebAppTutorial",
-        "projectPath": "C:\\Users\\puebbing\\Documents\\GitHub\\C# Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
+        "projectPath": "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
         "packagesPath": "C:\\Users\\puebbing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\puebbing\\Documents\\GitHub\\C# Projects\\WebAppTutorial\\WebAppTutorial\\obj\\",
+        "outputPath": "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\WebAppTutorial\\WebAppTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\puebbing\\AppData\\Roaming\\NuGet\\NuGet.Config",

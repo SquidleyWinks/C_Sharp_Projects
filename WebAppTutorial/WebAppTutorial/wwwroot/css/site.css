@@ -28,7 +28,18 @@ a {
 -------------------------------------------------- */
 html {
   font-size: 14px;
+  background-color: black;
 }
+
+body {
+    background-color: black;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -72,4 +83,23 @@ body {
 
 .green-text {
     color: darkolivegreen;
+    background-color: black;
+}
+
+#bigbox {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: white;
+}
+
+#smallbox {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: darkolivegreen;
+}
+
+#myMoveButton {
+    background-color: white;
 }

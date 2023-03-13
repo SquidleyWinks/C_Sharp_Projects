@@ -1,0 +1,41 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.deps.json
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.runtimeconfig.json
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.runtimeconfig.dev.json
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.Views.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\bin\Debug\netcoreapp3.1\Visual Studio HTML Assignment.Views.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.AssemblyInfoInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.AssemblyInfo.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.RazorAssemblyInfo.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.RazorAssemblyInfo.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\staticwebassets\Visual Studio HTML Assignment.StaticWebAssets.Manifest.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\staticwebassets\Visual Studio HTML Assignment.StaticWebAssets.Pack.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Visual Studio HTML Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Visual Studio HTML Assignment.props
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Visual Studio HTML Assignment.props
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Visual Studio HTML Assignment.props
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.TagHelpers.input.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.TagHelpers.output.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.RazorCoreGenerate.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.RazorTargetAssemblyInfo.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.RazorTargetAssemblyInfo.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.Views.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.genruntimeconfig.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Visual Studio HTML Assignment\Visual Studio HTML Assignment\obj\Debug\netcoreapp3.1\Visual Studio HTML Assignment.csproj.CopyComplete
