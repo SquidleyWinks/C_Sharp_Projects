@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.pdb
