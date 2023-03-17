@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
