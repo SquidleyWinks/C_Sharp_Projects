@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\obj\Debug\MathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\bin\Debug\MathAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\bin\Debug\MathAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\obj\Debug\MathAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathAssignment\MathAssignment\obj\Debug\MathAssignment.pdb

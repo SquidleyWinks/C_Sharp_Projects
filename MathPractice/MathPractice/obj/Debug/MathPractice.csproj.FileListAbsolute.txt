@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\bin\Debug\MathPractice.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\bin\Debug\MathPractice.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\bin\Debug\MathPractice.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\obj\Debug\MathPractice.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\MathPractice\MathPractice\obj\Debug\MathPractice.pdb
