@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\bin\Debug\LogicSubmissionAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\bin\Debug\LogicSubmissionAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\bin\Debug\LogicSubmissionAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\obj\Debug\LogicSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\obj\Debug\LogicSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\obj\Debug\LogicSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\obj\Debug\LogicSubmissionAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\LogicSubmissionAssignment\LogicSubmissionAssignment\obj\Debug\LogicSubmissionAssignment.pdb
