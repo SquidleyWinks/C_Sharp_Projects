@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\bin\Debug\WhileLoopAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\bin\Debug\WhileLoopAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\bin\Debug\WhileLoopAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\obj\Debug\WhileLoopAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\obj\Debug\WhileLoopAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\obj\Debug\WhileLoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\obj\Debug\WhileLoopAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\WhileLoopAssignment\WhileLoopAssignment\obj\Debug\WhileLoopAssignment.pdb
