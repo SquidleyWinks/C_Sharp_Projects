@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
