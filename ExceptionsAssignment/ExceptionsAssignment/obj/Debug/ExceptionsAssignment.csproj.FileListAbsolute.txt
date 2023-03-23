@@ -1,0 +1,8 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.exe.config
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\bin\Debug\ExceptionsAssignment.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.exe
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ExceptionsAssignment\ExceptionsAssignment\obj\Debug\ExceptionsAssignment.pdb
