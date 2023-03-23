@@ -55,7 +55,7 @@ namespace _6_Part_Assignment
                 }
                 if (member == listJLA[i]) // checks to see if the user input matches a list item
                 {
-                    Console.WriteLine(listJLA[i] + " is a member of the JLA"); // produces that list item
+                    Console.WriteLine(listJLA[i] + " is a member of the JLA at index " + i); // produces that list item
                     break; // breakpoint, so we know when to stop once we've found a match
                 }
             }
@@ -68,7 +68,7 @@ namespace _6_Part_Assignment
             {
                 if (popular == Batmans[i]) // checks for user input matching list item
                 {
-                    Console.WriteLine("Na na na na na na na na " + Batmans[i]); // had some fun here, ngl
+                    Console.WriteLine("Na na na na na na na na " + Batmans[i] + " at index " + i); // had some fun here, ngl
                 }
                 if (i == 6 && popular != "Batman") // this check took me a minute to come up with. Had to take the <= back to <. First attempt had this getting produced after the correct match. Second attempt had this producing with every match. Satisfyied with how it turned out, but I feel like I kinda fell backwards into the solution
                 {
