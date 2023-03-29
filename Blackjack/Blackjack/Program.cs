@@ -20,16 +20,5 @@ namespace Blackjack
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-
-        
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
