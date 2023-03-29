@@ -10,6 +10,8 @@ namespace ClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
+            StaticClass.HelloWorld(); // utilizes the static class StaticClass
+            Maths maths = new Maths(); // instantiating Maths class
             int numHalved = 0; // declaring output parameter variable
             Console.WriteLine("Please select a number to cut in half"); // prompts user for a number
             int userNum = Convert.ToInt32(Console.ReadLine()); // sets the number to a variable

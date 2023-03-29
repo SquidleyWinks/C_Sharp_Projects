@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassSubmissionAssignment
 {
-    internal static class Maths // class declared static
+    internal class Maths 
     {
         public static void CutInHalf(int num, out int numHalved) // void method with output parameter gets past the "return" keyword
         {
