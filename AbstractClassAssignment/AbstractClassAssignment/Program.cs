@@ -12,6 +12,8 @@ namespace AbstractClassAssignment
         {
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" }; // instantiates an employee with a first and last name
             employee.SayName(); // calls SayName() method
+            IQuittable quitter = new Employee(); // polymorphs an employee into an IQuittable
+            quitter.Quit(); // calls Quit method
             Console.ReadLine(); // so we have time to see the results on the screen
         }
     }
