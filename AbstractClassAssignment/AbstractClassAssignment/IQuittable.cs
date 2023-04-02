@@ -8,6 +8,7 @@ namespace AbstractClassAssignment
 {
     public interface IQuittable
     {
+        int Id { get; }
         void Quit(); // sets up the method for inheritors to implement
     }
 }
