@@ -10,15 +10,27 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
-
-            foreach (Card card in deck.Cards)
+            Console.WriteLine("Welcome to Hell. Let's start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to wager your soul on a game of Blackjack? Answer Carefully.", playerName);
+            string answer = Console.ReadLine();
+            if (answer != "" || answer == "")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Player player = new Player(playerName, bank);
+                Game game = new BlackjackGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("So you've survived. \n For Now.");
             }
-            Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
+            Console.WriteLine("Feel free to get comfortable. You'll stille be here for a while.");
+            Console.Read();
         }
     }
 }
