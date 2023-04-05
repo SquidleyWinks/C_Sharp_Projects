@@ -10,10 +10,10 @@ namespace DateTimeAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTime.Now);
-            Console.WriteLine("Please provide a number:");
-            int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(DateTime.Now.AddHours(x));
+            Console.WriteLine(DateTime.Now); // prints DateTime of Now to the console
+            Console.WriteLine("Please provide a number:"); // prompts user for a number
+            int x = Convert.ToInt32(Console.ReadLine()); // sets variable for user number
+            Console.WriteLine(DateTime.Now.AddHours(x)); // uses AddHours() method on DateTime.Now to add the user's input (in hours) to the current time
             Console.ReadLine();
         }
     }
