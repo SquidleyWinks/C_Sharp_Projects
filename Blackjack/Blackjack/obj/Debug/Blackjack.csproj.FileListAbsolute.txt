@@ -6,3 +6,8 @@ C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\obj\Debu
 C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
 C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\bin\Debug\HellCasino.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\bin\Debug\HellCasino.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\bin\Debug\CasinoHell.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\Blackjack\bin\Debug\CasinoHell.pdb

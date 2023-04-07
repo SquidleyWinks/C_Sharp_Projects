@@ -1,0 +1,6 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\CasinoHell\bin\Debug\CasinoHell.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\CasinoHell\bin\Debug\CasinoHell.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\CasinoHell\obj\Debug\CasinoHell.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\CasinoHell\obj\Debug\CasinoHell.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\CasinoHell\obj\Debug\CasinoHell.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\CasinoHell\obj\Debug\CasinoHell.pdb

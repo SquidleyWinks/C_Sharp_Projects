@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using CasinoHell;
+using CasinoHell.Blackjack;
 
 namespace Blackjack
 {
@@ -20,6 +22,11 @@ namespace Blackjack
             if (answer != "" || answer == "")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"c:\users\puebbing\documents\logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new BlackjackGame();
                 game += player;
                 player.isActivelyPlaying = true;
@@ -30,7 +37,7 @@ namespace Blackjack
                 game -= player;
                 Console.WriteLine("So you've survived. \n For Now.");
             }
-            Console.WriteLine("Feel free to get comfortable. You'll stille be here for a while.");
+            Console.WriteLine("Feel free to get comfortable. You'll still be here for a while.");
             Console.Read();
         }
     }

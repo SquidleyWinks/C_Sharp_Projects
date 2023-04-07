@@ -1,0 +1,12 @@
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\bin\Debug\net7.0\HellCasino.deps.json
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\bin\Debug\net7.0\HellCasino.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\bin\Debug\net7.0\HellCasino.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.csproj.AssemblyReference.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.AssemblyInfoInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.AssemblyInfo.cs
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.csproj.CoreCompileInputs.cache
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\refint\HellCasino.dll
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\HellCasino.pdb
+C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\Blackjack\HellCasino\obj\Debug\net7.0\ref\HellCasino.dll
