@@ -22,11 +22,22 @@ namespace CasinoHell.Blackjack
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle(7);
-            Console.WriteLine("Place your bet.");
 
             foreach(Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet.");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("How many times do I need to tell you? Numbers only.");
+                }
+                if (bet < 0)
+                {
+                    Console.WriteLine("I BET you think you're clever, but that won't work here.");
+                    throw new FraudException();
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {

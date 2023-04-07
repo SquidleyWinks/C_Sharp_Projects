@@ -15,10 +15,19 @@ namespace Blackjack
         {
             Console.WriteLine("Welcome to Hell. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Hello, {0}. Would you like to wager your soul on a game of Blackjack? Answer Carefully.", playerName);
+
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("If you had to put a value on your soul, what would it be worth?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Don't be precious -- give me a number.");
+            }
+
+            Console.WriteLine("Hello, {0}. Would you like to wager your meager soul on a game of Blackjack? Answer Carefully.", playerName);
             string answer = Console.ReadLine();
+            Console.WriteLine("Ha, you couldn't resist, even if you wanted to.");
             if (answer != "" || answer == "")
             {
                 Player player = new Player(playerName, bank);
@@ -32,7 +41,22 @@ namespace Blackjack
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("You have attempted to cheat Hell. Prepare to go someplace worse.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occured. The Devil will be contacting you shortly.");
+                        Console.ReadLine();
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("So you've survived. \n For Now.");
