@@ -36,7 +36,7 @@ namespace CasinoHell.Blackjack
                 if (bet < 0)
                 {
                     Console.WriteLine("I BET you think you're clever, but that won't work here.");
-                    throw new FraudException();
+                    throw new FraudException("Someone has attempted to cheat Hell. Now they'll pay the price.");
                 }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
