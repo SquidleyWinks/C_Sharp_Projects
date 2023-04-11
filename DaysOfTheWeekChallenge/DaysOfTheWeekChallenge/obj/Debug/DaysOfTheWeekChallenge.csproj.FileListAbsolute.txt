@@ -1,8 +1,0 @@
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\bin\Debug\DaysOfTheWeekChallenge.exe.config
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\bin\Debug\DaysOfTheWeekChallenge.exe
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\bin\Debug\DaysOfTheWeekChallenge.pdb
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\obj\Debug\DaysOfTheWeekChallenge.csproj.AssemblyReference.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\obj\Debug\DaysOfTheWeekChallenge.csproj.SuggestedBindingRedirects.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\obj\Debug\DaysOfTheWeekChallenge.csproj.CoreCompileInputs.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\obj\Debug\DaysOfTheWeekChallenge.exe
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\DaysOfTheWeekChallenge\DaysOfTheWeekChallenge\obj\Debug\DaysOfTheWeekChallenge.pdb

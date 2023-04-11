@@ -1,8 +1,0 @@
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb

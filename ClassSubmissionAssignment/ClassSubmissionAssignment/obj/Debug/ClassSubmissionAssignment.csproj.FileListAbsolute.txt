@@ -1,8 +1,0 @@
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.exe.config
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.exe
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\ClassSubmissionAssignment.pdb
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.AssemblyReference.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.exe
-C:\Users\puebbing\Documents\GitHub\C_Sharp_Projects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\ClassSubmissionAssignment.pdb
