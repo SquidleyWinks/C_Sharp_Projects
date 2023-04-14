@@ -1,0 +1,38 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@functions {
+    public string Time { get; set; } = DateTime.Now.ToString();
+
+    public void OnGet()
+    {
+        Time = DateTime.Now.ToString();
+    }
+
+}
+
+@{
+    var good = "";
+    if (DateTime.Now.Hour > 12)
+    {
+        good = "Good Evening!";
+    }
+    else
+    {
+        good = "Good Morning!";
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<div class="text-center">
+    <h2>@good</h2>
+    <h2>The Time is Now:</h2>
+    <h2>@Time</h2>
+    <button><a href="/" class="btn btn-default">Get Fresh Time</a></button>
+</div>
