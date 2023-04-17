@@ -4,8 +4,11 @@
  Projects:
  
  CarInsurance 
+ 
  Blackjack
+ 
  Basic Projects
+ 
 
 CarInsurance:
 This is an MVC website meant to imitate an application for car insurance.
