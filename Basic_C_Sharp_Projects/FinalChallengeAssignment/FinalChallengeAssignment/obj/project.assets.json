@@ -1084,11 +1084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\puebbing\\source\\repos\\FinalChallengeAssignment\\FinalChallengeAssignment\\FinalChallengeAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\Basic_C_Sharp_Projects\\FinalChallengeAssignment\\FinalChallengeAssignment\\FinalChallengeAssignment.csproj",
       "projectName": "FinalChallengeAssignment",
-      "projectPath": "C:\\Users\\puebbing\\source\\repos\\FinalChallengeAssignment\\FinalChallengeAssignment\\FinalChallengeAssignment.csproj",
+      "projectPath": "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\Basic_C_Sharp_Projects\\FinalChallengeAssignment\\FinalChallengeAssignment\\FinalChallengeAssignment.csproj",
       "packagesPath": "C:\\Users\\puebbing\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\puebbing\\source\\repos\\FinalChallengeAssignment\\FinalChallengeAssignment\\obj\\",
+      "outputPath": "C:\\Users\\puebbing\\Documents\\GitHub\\C_Sharp_Projects\\Basic_C_Sharp_Projects\\FinalChallengeAssignment\\FinalChallengeAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\puebbing\\AppData\\Roaming\\NuGet\\NuGet.Config",
